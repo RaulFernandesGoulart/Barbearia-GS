@@ -69,6 +69,11 @@ body {
   margin: 0;
   padding-bottom: 100px; 
   height: 100%;
+  
+  background-image: url('/img/background.jpg');
+    /* Outras propriedades de background se necessário */
+
+
   /* Altura mínima do conteúdo da página */
 }
 
@@ -10044,7 +10049,7 @@ a:focus {
 }
 
 .text-gray-800 {
-  color: #5a5c69 !important;
+  color: #05263A !important;
 }
 
 .text-gray-900 {
