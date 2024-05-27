@@ -6,7 +6,7 @@
   top: 0;
   left: 0;
   z-index: 9999;
-  background-color: #F2EFE6;
+  background-color: #2e4067;
   ;
 }
 
@@ -40,7 +40,7 @@ transform: translateY(-0.25em);
   display:flex;
   max-width: max-content;
   gap: 1rem;
-  background-color: #F2EFE6;
+  background-color: #2e4067;
   ;
   padding-top: 30px;
   justify-content: center; /* Centralizar os itens horizontalmente */
@@ -68,7 +68,7 @@ margin-top: -20px;
 }
 
 .botao{
-color:#F2EFE6;
+color:white;
 margin-right: 200px;
 display: block;
 margin-right: auto;
@@ -77,7 +77,7 @@ width: 120px;
 height: 45px;
 border: none;
 border-radius:5cm;
-background-color: #05263A;
+background-color: black;
 font-size: 17px;
 cursor: pointer;
 box-shadow: 1px 1px 0px #000000;
@@ -121,7 +121,7 @@ height: 50px;
 
 .list .personalizado {
   text-decoration: none;
-  color: rgb(0, 0, 0);
+  color:white;
   padding: 0px 25px 10px 0px;
   position: relative;
   
@@ -131,7 +131,7 @@ height: 50px;
 content: "";
 width: 0%;
 height: 4px;
-background-color: rgb(0, 0, 0);
+background-color:white;
 position:absolute;
 bottom:0;
 left: 0;
